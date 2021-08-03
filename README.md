@@ -1,8 +1,8 @@
-### Oii! eu sou o Vitor Daniel
+### hi my name is Vitor Daniel
 
-- 🔭 Hoje estou buscando atuar na area de front-end.
-- 🌱 Estudando, react.js, flutter, typescript, JavaScript.
-- 📫 Contata-se no email: daniel.lopes135@gmail.com.
+- 🔭 Looking for an opportunity to work as a frontend developer.
+- 🌱 studying, react.js, flutter, typescript, JavaScript.
+- 📫 Contact me on my email: daniel.lopes135@gmail.com.
 
 <div>
   <a href="https://github.com/vitor-daniel1">
