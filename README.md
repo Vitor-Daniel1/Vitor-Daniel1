@@ -2,7 +2,7 @@
 
 - 🔭 Looking for an opportunity to work as a frontend developer.
 - 🌱 studying, react.js, flutter, typescript, JavaScript.
-- 📫 Contact me on my email: daniel.lopes135@gmail.com.
+- 📫 Contact me on my email: daniel.lopess135@gmail.com.
 
 <div>
   <a href="https://github.com/vitor-daniel1">
