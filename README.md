@@ -1,7 +1,7 @@
 ### hi my name is Vitor Daniel
 
 - 🔭 Looking for an opportunity to work as a frontend developer.
-- 🌱 studying, react.js, flutter, typescript, JavaScript.
+- 🌱 studying, react.js, databases, typescript, JavaScript,node.js.
 - 📫 Contact me on my email: daniel.lopess135@gmail.com.
 
 <div>
